@@ -1,1 +1,1 @@
- notizen.txt
+Das ist mein erstes GITHUB-projekt.
